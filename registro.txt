@@ -4,3 +4,4 @@ Correo
 Teléfono 
 Fecha de nacimiento
 Contraseña 
+Arely jeje
